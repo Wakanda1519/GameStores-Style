@@ -1,4 +1,4 @@
-# 🎨 GameStores Styles
+# 🎨 GameStores Style
 
 **Глобальное улучшение UI/UX дизайна и функционала для донат-магазинов GameStores.**
 
