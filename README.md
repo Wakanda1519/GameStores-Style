@@ -8,7 +8,7 @@
 
 **GameStores Styles** — это стиль, превращающий стандартный стиль магазина в современный, отзывчивый и уникальный интерфейс. Проект полностью Open Source.
 
-![Main Interface](https://i.postimg.cc/GpCRbDFt/1111111.png)
+<img width="1280" height="632" alt="666" src="https://github.com/user-attachments/assets/14949424-e6e9-4fbe-a425-446871881976" />
 
 ## Особенности
 
@@ -84,8 +84,8 @@ MIT License. Делайте с кодом что хотите, это Open Sourc
 
 ## 📸 Галерея
 
-![Интерфейс GameStores](https://i.postimg.cc/9MzJKWxb/5.png)   
-![Интерфейс GameStores](https://i.postimg.cc/GtKNnMFJ/6.png) 
-![Интерфейс GameStores](https://i.postimg.cc/bw8L80Cs/7.png)
-![Интерфейс GameStores](https://i.postimg.cc/VL0B80s3/1.png)
-![Интерфейс GameStores](https://i.postimg.cc/Vvxt64s2/4.png)
+<img width="781" height="789" alt="1" src="https://github.com/user-attachments/assets/6ce87b4a-93c5-4ee6-9c60-24517cbf8f99" />
+<img width="276" height="108" alt="5" src="https://github.com/user-attachments/assets/56fcad19-4b0c-452a-a564-b8057ccffbe9" />
+<img width="274" height="98" alt="4" src="https://github.com/user-attachments/assets/45dbd4dc-4dab-4705-b6ea-390a082f1e17" />
+<img width="752" height="800" alt="3" src="https://github.com/user-attachments/assets/0ea8ff2e-461b-4cbb-bd2d-a3a3b044640b" />
+<img width="553" height="800" alt="2" src="https://github.com/user-attachments/assets/adf8f1c5-fd52-4420-98be-ccf94d700d49" />
