@@ -5,13 +5,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
-[![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=flat-square&logo=telegram)](https://t.me/wakanda1519)
 
 **GameStores Styles** — это стиль, превращающий стандартный стиль магазина в современный, отзывчивый и уникальный интерфейс. Проект полностью Open Source.
 
 ![Main Interface](https://i.postimg.cc/GpCRbDFt/1111111.png)
 
-## ✨ Особенности
+## Особенности
 
 * Полная переработка визуального стиля (цвета, отступы, шрифты).
 * Готовые HTML-шаблоны для виджетов (мониторинг, новости, профиль).
@@ -21,11 +20,11 @@
 
 ---
 
-## 📦 Установка
+## Установка
 
 ### Шаг 1: Подготовка магазина
 Зайдите в панель управления магазином -> **Дизайн**.
-> ⚠️ **Важно:** Убедитесь, что выбран стиль шаблона **"Red Black"**. На других стилях корректная работа не гарантируется.
+> **Важно:** Убедитесь, что выбран стиль шаблона **"Red Black"**. На других стилях корректная работа не гарантируется.
 
 ### Шаг 2: Подключение кода
 Перейдите в **Внешний вид** -> **Продвинутая конфигурация**:
@@ -47,7 +46,7 @@
 
 ---
 
-## ⚙️ Настройка (JS)
+## Настройка (JS)
 
 В файле `js.js` в самом начале есть блок настроек. Вы можете менять их `true` (включить) или `false` (выключить):
 
@@ -63,41 +62,21 @@ this.bonuses = true;                 // Показывать блок с бон�
 
 ---
 
-## 🎨 Для продвинутых (CSS и JS)
+## Для продвинутых (CSS и JS)
 
 Вы можете изменить цветовую схему магазина за пару секунд. Откройте css.css и найдите блок :root в начале файла. Просто поменяйте HEX-коды цветов на свои. Улучшайте и доробатывайте JS как вам угодно.
 
 ---
 
-## 🔗 Полезные ссылки
+## Поддержка и Баги
 
-Хостинги картинок (для товаров и фона):
-```url
-https://postimages.org/ru
-```
-```url
-https://allwebs.ru
-```
-```url
-https://gspics.org
-```
-Где брать картинки предметов для описания товаров?
-```url
-https://www.rustedit.io/images/imagelibrary/{shortname}.png
-```
-`shortname` - имя предмета в игре, к примеру code.lock
-
----
-
-## 🐛 Поддержка и Баги
-
-Если вы нашли ошибку или у вас есть идея для улучшения, пишите в Telegram  
+Если вы нашли ошибку или у вас есть идея для улучшения, пишите в Telegram
 
 [![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=flat-square&logo=telegram)](https://t.me/wakanda1519)
 
 ---
 
-## 📄 Лицензия
+## Лицензия
 
 MIT License. Делайте с кодом что хотите, это Open Source.
 
