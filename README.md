@@ -69,14 +69,6 @@ this.bonuses = true;                 // Показывать блок с бон�
 
 ---
 
-## Поддержка и Баги
-
-Если вы нашли ошибку или у вас есть идея для улучшения, пишите в Telegram
-
-[![Telegram](https://img.shields.io/badge/Telegram-Support-blue?style=flat-square&logo=telegram)](https://t.me/wakanda1519)
-
----
-
 ## Лицензия
 
 MIT License. Делайте с кодом что хотите, это Open Source.
