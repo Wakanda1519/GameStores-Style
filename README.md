@@ -6,9 +6,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-**GameStores Styles** — это стиль, превращающий стандартный стиль магазина в современный, отзывчивый и уникальный интерфейс. Проект полностью Open Source.
-
 <img width="1280" height="632" alt="666" src="https://github.com/user-attachments/assets/14949424-e6e9-4fbe-a425-446871881976" />
+
+**GameStores Styles** — это стиль, превращающий стандартный стиль магазина в современный, отзывчивый и уникальный интерфейс. Проект полностью Open Source.
 
 ## Особенности
 
